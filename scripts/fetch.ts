@@ -7,7 +7,7 @@ import { Buffer } from 'node:buffer'
 import { $fetch } from 'ofetch'
 
 const BASE_URL = 'https://api.unsplash.com'
-const COLLECTION_ID = '94734566'
+const COLLECTION_ID = 'Te4so2wbHcM'
 const DIR_DOWNLOADS = 'downloads'
 const DIR_STATIC = 'static'
 const USE_CACHE = true
